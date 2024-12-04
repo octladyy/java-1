@@ -8,6 +8,7 @@ public class Todo {
 
         final String t = "text";
         System.out.println(t);
+        System.out.println("Hello World 3 " + myAge);
 
 //        t = "hi ";
         System.out.println(t);
